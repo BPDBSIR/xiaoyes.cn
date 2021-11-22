@@ -272,6 +272,7 @@ widgets:
         # Names and URLs of the sites
         links:
             程序猿郭小睿: 'http://guoxiaorui.cn'
+            开心小市民: 'https://www.cnblogs.com/selisen/'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
